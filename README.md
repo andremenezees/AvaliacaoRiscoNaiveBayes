@@ -1,7 +1,7 @@
 # AvaliacaoRiscoNaiveBayes
 
-Neste projeto foi criada um aplicativo simples através do django, que tem o objetivo de prever o risco de
-acidente de trânsito através do naive bayes.
+Neste projeto foi criado um aplicativo simples através do django, que tem o objetivo de prever o risco de
+acidente de trânsito através do algoritimo de aprendizado naive bayes.
 
 A aplicação foi desenvolvida através do pipenv, portanto para executa-la é necessario:
 
@@ -9,6 +9,10 @@ Instalar o pipenv:
 
     pip install pipenv
    
+Executar o pipenv:
+    
+    pipenv shell
+    
 Em seguida, instalar as dependencias do projeto:
 
     pipenv install --dev
